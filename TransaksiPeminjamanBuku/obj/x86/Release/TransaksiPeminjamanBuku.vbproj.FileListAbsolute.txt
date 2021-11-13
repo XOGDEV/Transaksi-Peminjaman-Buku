@@ -1,0 +1,8 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\TransaksiPeminjamanBuku\TransaksiPeminjamanBuku\bin\Release\TransaksiPeminjamanBuku.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\TransaksiPeminjamanBuku\TransaksiPeminjamanBuku\bin\Release\TransaksiPeminjamanBuku.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\TransaksiPeminjamanBuku\TransaksiPeminjamanBuku\bin\Release\TransaksiPeminjamanBuku.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\TransaksiPeminjamanBuku\TransaksiPeminjamanBuku\obj\x86\Release\TransaksiPeminjamanBuku.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\TransaksiPeminjamanBuku\TransaksiPeminjamanBuku\obj\x86\Release\TransaksiPeminjamanBuku.vbproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\TransaksiPeminjamanBuku\TransaksiPeminjamanBuku\obj\x86\Release\TransaksiPeminjamanBuku.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\TransaksiPeminjamanBuku\TransaksiPeminjamanBuku\obj\x86\Release\TransaksiPeminjamanBuku.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\TransaksiPeminjamanBuku\TransaksiPeminjamanBuku\obj\x86\Release\TransaksiPeminjamanBuku.pdb
